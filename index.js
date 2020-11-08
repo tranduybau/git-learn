@@ -10,4 +10,7 @@ let array1 = regex1.exec(str1);
 //   // expected output: "Found foo. Next starts at 19."
 // }
 
+
+  // eslint-disable-next-line no-console
+console.log('truongdasua', 'truongdasua');
 console.log(regex1.exec(str1), 'regex1.exec(str1)'); // eslint-disable-line no-console
