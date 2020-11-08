@@ -1,0 +1,22 @@
+[{
+	"hasCoupon": true,
+	"_id": "5fa263e15e7a32a4a3948cee",
+	"product": {
+		"_id": "5f98c101422ab59087bd716b",
+		"name": "Tai Le123",
+		"slug": "tai-le123-m6gg5c",
+		"price": 300000,
+		"discount": 0,
+		"discountType": "PRICE",
+		"cover": "https://thegmenstore-dev.s3.ap-southeast-1.amazonaws.com/2020/10/1603442402455rfzf.jpg",
+		"variants": [{
+			"_id": "5f98c101422ab59087bd716d",
+			"sku": "4",
+			"size": "5",
+			"quantity": 9999
+		}],
+		"discountedPrice": 300000
+	},
+	"quantity": 1,
+	"size": "5"
+}]
